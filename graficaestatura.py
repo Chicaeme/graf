@@ -1,3 +1,6 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
 # Generar estaturas aleatorias para 18 estudiantes (en centímetros)
 estaturas = np.array([188, 160, 160, 160, 160, 160, 165, 159, 175, 159, 172, 174, 180, 170, 174, 179, 185, 168])
 
